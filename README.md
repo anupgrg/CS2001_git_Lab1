@@ -45,3 +45,8 @@ Student ID | Movie | Year of Release
 1920389 | Jurassic Park 1 | 1992
 1920389 |  Fight CLub | 1999
 1920389 | The Wolf of Wallstreet | 2013
+1946106	| Parasite | 2019
+1946106	| Spider-man | 2002
+1946106	| Shutter Island | 2010
+1946106	| The Grand Budapest Hotel | 2014
+1946106| Get Out | 2017
